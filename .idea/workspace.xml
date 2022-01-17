@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9c68481e-cf50-4800-90d1-c259e2b29720" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/crud/delete.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crud/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crud/update.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/array.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/array.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-test.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/demo-test.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/introduction.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/introduction.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loop.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/loop.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="23cmYUCrsNnWBmTqKt0Z2NFlZf1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\scriptinglanguage\crud" />
+      <recent name="C:\xampp\htdocs\scriptinglanguage\basic" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c68481e-cf50-4800-90d1-c259e2b29720" name="Default Changelist" comment="" />
+      <created>1642041801950</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642041801950</updated>
+      <workItem from="1642041804767" duration="75000" />
+      <workItem from="1642047085003" duration="3877000" />
+      <workItem from="1642069489564" duration="24000" />
+      <workItem from="1642133477717" duration="2071000" />
+      <workItem from="1642297314339" duration="2182000" />
+      <workItem from="1642339145359" duration="10000" />
+      <workItem from="1642383697514" duration="513000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="100" key="FileChooserDialogImpl" timestamp="1642339153507">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="421" y="100" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1642339153507" />
+    <state x="477" y="268" key="NewPhpFileDialog" timestamp="1642298120175">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="477" y="268" key="NewPhpFileDialog/0.0.1280.689@0.0.1280.689" timestamp="1642298120175" />
+  </component>
+</project>
