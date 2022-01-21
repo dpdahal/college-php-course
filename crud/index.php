@@ -32,6 +32,8 @@ if (!empty($_POST)) {
     $name = $_POST['name'];
     $email = $_POST['email'];
     $address = $_POST['address'];
+
+
     $query = "INSERT INTO students(name,email,address)VALUES('$name','$email','$address')";
     $response = mysqli_query($connection, $query);
     if ($response) {
@@ -65,6 +67,11 @@ if (!empty($_POST)) {
         <input type="text" name="email" id="email"> <br>
         <label for="address">Address</label> <br>
         <input type="text" name="address" id="address"> <br> <br>
+        <select name="country" id="">
+            <option value="nepal">Nepal</option>
+            <option value="china">china</option>
+            <option value="us">us</option>
+        </select>
         <button>Add record</button>
     </form>
     <hr>

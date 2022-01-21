@@ -53,6 +53,7 @@ if (!empty($_POST)) {
         <input type="text" name="email" value="<?= $studentData['email'] ?>" id="email"> <br>
         <label for="address">Address</label> <br>
         <input type="text" name="address" value="<?= $studentData['address'] ?>" id="address"> <br> <br>
+
         <button>Update record</button>
     </form>
 

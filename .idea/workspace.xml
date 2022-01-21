@@ -20,13 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c68481e-cf50-4800-90d1-c259e2b29720" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/crud/delete.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crud/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crud/update.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/array.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo-test.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/demo-test.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/introduction.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/introduction.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loop.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/loop.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/Introduction.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/crud/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/update.php" beforeDir="false" afterPath="$PROJECT_DIR$/crud/update.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +37,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="23cmYUCrsNnWBmTqKt0Z2NFlZf1" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -49,6 +48,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -71,7 +71,9 @@
       <workItem from="1642133477717" duration="2071000" />
       <workItem from="1642297314339" duration="2182000" />
       <workItem from="1642339145359" duration="10000" />
-      <workItem from="1642383697514" duration="513000" />
+      <workItem from="1642383697514" duration="3031000" />
+      <workItem from="1642411858770" duration="27000" />
+      <workItem from="1642736567367" duration="2187000" />
     </task>
     <servers />
   </component>
@@ -91,13 +93,21 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="421" y="100" key="FileChooserDialogImpl" timestamp="1642339153507">
+    <state x="421" y="100" key="FileChooserDialogImpl" timestamp="1642411882807">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="421" y="100" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1642339153507" />
-    <state x="477" y="268" key="NewPhpFileDialog" timestamp="1642298120175">
+    <state x="421" y="100" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1642411882807" />
+    <state x="443" y="68" key="NewPhpClassDialog" timestamp="1642737064679">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="477" y="268" key="NewPhpFileDialog/0.0.1280.689@0.0.1280.689" timestamp="1642298120175" />
+    <state x="443" y="68" key="NewPhpClassDialog/0.0.1280.689@0.0.1280.689" timestamp="1642737064679" />
+    <state x="477" y="268" key="NewPhpFileDialog" timestamp="1642737074506">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="477" y="268" key="NewPhpFileDialog/0.0.1280.689@0.0.1280.689" timestamp="1642737074506" />
+    <state x="303" y="10" width="672" height="678" key="search.everywhere.popup" timestamp="1642385998758">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="303" y="10" width="672" height="678" key="search.everywhere.popup/0.0.1280.689@0.0.1280.689" timestamp="1642385998758" />
   </component>
 </project>
