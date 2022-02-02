@@ -44,7 +44,7 @@ class  Introduction
     public function __construct($name, $age)
     {
         echo "I am construct";
-//        $this->full_name = $name;
+        $this->full_name = $name;
     }
 
     public function getName()
