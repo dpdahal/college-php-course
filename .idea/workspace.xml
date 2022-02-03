@@ -20,16 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c68481e-cf50-4800-90d1-c259e2b29720" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/database/Database.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop/Bank.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop/College.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop/DB.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop/Mobile.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop/Songs.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop/Students.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop/Introduction.php" beforeDir="false" afterPath="$PROJECT_DIR$/oop/Introduction.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/Database.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/Database.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +45,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -88,7 +82,9 @@
       <workItem from="1643506796509" duration="3485000" />
       <workItem from="1643515227073" duration="137000" />
       <workItem from="1643770505887" duration="30000" />
-      <workItem from="1643773372531" duration="2883000" />
+      <workItem from="1643773372531" duration="3275000" />
+      <workItem from="1643788981871" duration="20000" />
+      <workItem from="1643859967372" duration="1724000" />
     </task>
     <servers />
   </component>

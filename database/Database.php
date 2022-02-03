@@ -48,24 +48,72 @@ class Database
             die($exception->getMessage());
         }
 
+    }
+
+    public function Update($tableName, $data, $criteria, $bindData = [])
+    {
+        $mergeValue = array_merge(array_values($data), $bindData);
+        $setColumns = '';
+        $increment = 1;
+        foreach ($data as $key => $value) {
+            $setColumns .= "{$key}=?";
+            if ($increment < count($data)) {
+                $setColumns .= ", ";
+            }
+            $increment++;
+        }
+        $query = "UPDATE {$tableName} SET {$setColumns} WHERE $criteria=?";
+        $prepareStatement = $this->_conn->prepare($query);
+        try {
+            return $prepareStatement->execute($mergeValue);
+
+        } catch (PDOException $exception) {
+            die($exception->getMessage());
+        }
 
     }
 
-    public function Update(){
+    public function Delete($tableName, $criteria, $bindValue = [])
+    {
+        $query = "DELETE FROM {$tableName} WHERE  $criteria=?";
+        $prepareStatement = $this->_conn->prepare($query);
+        try {
+            return $prepareStatement->execute($bindValue);
+
+        } catch (PDOException $exception) {
+            die($exception->getMessage());
+        }
+
 
     }
 
-    public function Delete(){
+    public function Select()
+    {
 
     }
 
-    public function Select(){
+    public function getBy(){
+
+    }
+    public function Count()
+    {
 
     }
 
-    public function Count(){
+    function Query($query)
+    {
+
+        $prepareStatement = $this->_conn->prepare($query);
+        try {
+            $prepareStatement->execute([]);
+            return $prepareStatement->fetchAll(PDO::FETCH_CLASS);
+
+        } catch (PDOException $exception) {
+            die($exception->getMessage());
+        }
 
     }
 
 }
+
 
